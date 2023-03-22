@@ -1,0 +1,26 @@
+
+public class Myfirstclass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int x;
+		String y;
+		
+		
+		y = "Hello World";
+		
+		
+		
+		
+		
+		
+		
+		
+		System.out.println(y);
+		
+
+
+	}
+
+}

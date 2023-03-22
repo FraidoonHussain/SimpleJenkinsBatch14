@@ -1,0 +1,28 @@
+
+public class Myfirstclass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+
+		int x = 10;
+		int r = 16;
+		String Freddy = "21";
+		
+		System.out.println(x);
+		
+		
+	
+		
+	
+		//define what type, give your custom name , then give the value after =
+		
+		
+		
+
+		
+
+
+	}
+
+}
